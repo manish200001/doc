@@ -1,3 +1,5 @@
+<h1 style = "text-align: center">Should India be renamed Bharat?</h1>
+
 ![](https://lh7-us.googleusercontent.com/td71HlpTPerSyeAwjC5nJbGCHd3ZY4UIHhiPvIQHIRWnEl_BlJustzQm7ppLuLIv_goKddbo0SF5MZ4T_0OnWRSETPi9K4xNQYJOFP1Xb_QYsmWFNtY3ncMtk2a_IHdVZ7WmuBdHFzGHgbvF2xlv8SE)
 
 <justify>
