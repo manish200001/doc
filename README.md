@@ -1,5 +1,6 @@
 ![](https://lh7-us.googleusercontent.com/td71HlpTPerSyeAwjC5nJbGCHd3ZY4UIHhiPvIQHIRWnEl_BlJustzQm7ppLuLIv_goKddbo0SF5MZ4T_0OnWRSETPi9K4xNQYJOFP1Xb_QYsmWFNtY3ncMtk2a_IHdVZ7WmuBdHFzGHgbvF2xlv8SE)
 
+<justify>
 
 # Containers and Virtual Machines
 
@@ -203,3 +204,5 @@ Podman commands are designed to mimic Docker commands, making it easy for users 
 Podman allows users to perform container operations without requiring root privileges, promoting a more secure and user-friendly experience.
 
 **Advantages of Docker:**
+</justify>
+
